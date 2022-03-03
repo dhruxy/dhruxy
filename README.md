@@ -14,4 +14,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruxy&show_icons=true&locale=en&layout=compact" alt="dhruxy" /></p>
 <br>
-<p">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruxy&show_icons=true&locale=en" alt="dhruxy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruxy&show_icons=true&locale=en" alt="dhruxy" /></p>
